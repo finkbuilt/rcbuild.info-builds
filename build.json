@@ -14,7 +14,7 @@
     "osd": "Micro MinimOSD",
     "receiver": "FrSky/D4R-II",
     "flightcam": "MC900DA-V9",
-    "hqcam": "808 #16 d lens",
+    "hqcam": "808 #16 d lens, decased, inboard mounted.",
     "videotx": "FT952 5.8GHz 32CH 200MW",
     "blackbox": "",
     "voltagereg": "Pololu D24V6F5, D-sun adjustable"
