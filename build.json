@@ -7,11 +7,11 @@
     "prop": [
       "rotorx  3020"
     ],
-    "arm": "",
+    "arm": "Integrated",
     "battery": [
       "nano tech 450mah 65-130c 3s"
     ],
-    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
+    "osd": "Micro MinimOSD",
     "receiver": "FrSky/D4R-II",
     "flightcam": "MC900DA-V9",
     "hqcam": "808 #16 d lens",
