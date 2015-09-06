@@ -2,10 +2,10 @@
   "config": {
     "frame": "Diatone/ET-150-V1.0-Carbon-Fiber-Quadcopter",
     "esc": "DYS/Mini-20A",
-    "motor": "dys 1104",
+    "motor": "1104  4000KV",
     "fc": "AbuseMark/Acro-Naze32",
     "prop": [
-      "rotorx  3020"
+      "Rotorx  3020"
     ],
     "arm": "Integrated",
     "battery": [
